@@ -32,7 +32,16 @@ The dataset contains:
 - Bar Charts
 - Line Charts
 - Pie Charts
+## 📊 Visualizations
 
+### 📈 Sales by Category
+![Sales Chart](images/category_sales.png)
+
+### 📈 Monthly Sales Trend
+![Monthly Trend](images/monthly_sales.png)
+
+### 🥧 Region Share
+![Region Pie](images/regional_sales.png)
 ## Key Insights
 - Electronics category generates highest sales
 - North & South regions show strong performance
