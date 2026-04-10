@@ -35,7 +35,7 @@ The dataset contains:
 ## 📊 Visualizations
 
 ### 📈 Sales by Category
-![Sales Chart](images/category_sales.png)
+![Sales Chart]("C:\Users\Admin\Desktop\PROJECT\images\category_sales.png"0
 
 ### 📈 Monthly Sales Trend
 ![Monthly Trend](images/monthly_sales.png)
