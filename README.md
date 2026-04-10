@@ -41,7 +41,7 @@ The dataset contains:
 ![Monthly Trend](images/monthly_sales.png)
 
 ### 🥧 Region Share
-![Region Pie](images/regional_sales.png)
+![Regional sales](images/regional_sales.png)
 ## Key Insights
 - Electronics category generates highest sales
 - North & South regions show strong performance
